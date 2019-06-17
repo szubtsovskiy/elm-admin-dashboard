@@ -1,0 +1,37 @@
+.input-group-btn {
+  .btn {
+    i {
+      margin-right: 0;
+    }
+  }
+}
+
+.image-field {
+  display: flex;
+
+  .preview {
+    width: 100px;
+    height: 67px;
+    margin: auto 0;
+    text-align: center;
+    vertical-align: middle;
+    display: flex;
+    i {
+      margin: auto;
+    }
+    img {
+      margin: auto;
+      max-height: 67px;
+    }
+  }
+
+  .input-group {
+    padding-left: 15px;
+    margin: auto;
+    height: 40px;
+    .help-block {
+      margin-bottom: 0;
+    }
+  }
+}
+

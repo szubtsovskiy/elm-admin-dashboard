@@ -1,0 +1,9 @@
+.DS_Store
+
+/bin
+/pkg
+/vendor/pkg
+/static
+/node_modules
+/elm-stuff
+.env

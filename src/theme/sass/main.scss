@@ -1,0 +1,35 @@
+/*	
+*	############################################################################
+*	
+*	KINGADMIN Admin Dashboard Style
+*	---------------------------------------------------------------------
+*
+*	Version		1.6.1
+*	Author		The Develovers
+*	Website: 	https://www.themeineed.com/
+*	Copyright	Copyright 2016 The Develovers
+*	
+*	############################################################################
+*/
+
+
+// Import modules
+
+@import "modules/mixins";
+
+// Import partials
+@import "partials/base";
+@import "partials/general";
+@import "partials/top-bar";
+@import "partials/navigation";
+@import "partials/main-content";
+@import "partials/ui-bootstrap-elements";
+@import "partials/ui-elements";
+@import "partials/tables";
+@import "partials/forms";
+@import "partials/footer";
+@import "partials/alerts";
+
+@import "custom";
+
+

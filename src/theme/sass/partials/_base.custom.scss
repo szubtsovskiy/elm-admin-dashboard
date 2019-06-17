@@ -1,0 +1,28 @@
+html, body, .wrapper, .content-wrapper {
+  height: 100%;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.content-wrapper {
+  flex-grow: 1;
+}
+
+.toggle-sidebar-collapse {
+  cursor: pointer;
+}
+
+a {
+  cursor: pointer;
+}
+
+.logged-user {
+  .avatar {
+    border: none;
+    background: #ececec;
+    margin-right: 10px;
+  }
+}
